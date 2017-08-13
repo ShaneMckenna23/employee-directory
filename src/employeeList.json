@@ -61,12 +61,12 @@
     },
      {
         "name": "Sarah",
-        "info": "I'm James from Software Development",
+        "info": "I'm Sarah from UI/UX",
         "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+            "office": "781-000-012",
+            "mobile": "086-321-1752",
+            "sms": "617-000-012",
+            "email": "swhite@company.ie"
         }
     }
 ]
