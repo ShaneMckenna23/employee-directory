@@ -1,7 +1,7 @@
 Employee Directory
 ---
 
-![Image of App](https://im3.ezgif.com/tmp/ezgif-3-ddb7b1f307.gif)
+![Image of App](https://firebasestorage.googleapis.com/v0/b/personal-website-react.appspot.com/o/version-1.0.0.gif?alt=media&token=69ea1ebe-2331-45c9-8943-ab9a6d3061b0)
 
 To-Do
 ---
@@ -9,7 +9,7 @@ To-Do
 - [ ] Split classes from app.js into seperate files
 - [ ] Add more styling to the app.
 - [ ] Edit json data.
-- [ ] Host above gif.
+- [x] Host above gif.
 
 Install
 ---
