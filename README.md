@@ -9,7 +9,7 @@ To-Do
 - [ ] Split classes from app.js into seperate files
 - [ ] Add more styling to the app.
 - [ ] Edit json data.
-- [x] Host above gif.
+- [x] Make demo gif.
 
 Install
 ---
