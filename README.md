@@ -6,17 +6,17 @@ Employee Directory
 To-Do
 ---
 
+- [x] Make demo gif.
 - [ ] Split classes from app.js into seperate files
 - [ ] Add more styling to the app.
 - [ ] Edit json data.
-- [x] Make demo gif.
+- [ ] Add Animations
+
 
 Install
 ---
 
 `npm install`
-
-
 
 Usage
 ---
