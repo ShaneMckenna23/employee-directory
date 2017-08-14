@@ -20,3 +20,18 @@ body {
   margin-right: 20px
 }
 
+.employee-card {
+  background-color: white;
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+
+.employee-card img{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 50%;
+}

@@ -1,72 +1,93 @@
 [
-    {
-        "name": "James",
-        "info": "I'm James from Software Development",
-        "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+    { 
+        "key": "t1",
+        "data":{
+            "name": "James",
+            "info": "Software Development",
+            "contact": {
+                "office": "781-000-002",
+                "mobile": "087-321-0292",
+                "sms": "617-000-002",
+                "email": "jtaylor@company.ie"
+            }
         }
     },
     {
-        "name": "Chris",
-        "info": "I'm Chris from HR",
-        "contact": {
-            "office": "781-000-003",
-            "mobile": "087-221-0122",
-            "sms": "617-002-2002",
-            "email": "chris@company.ie"
+        "key": "t2",
+        "data":{
+            "name": "Chris",
+            "info": "Human Resources",
+            "contact": {
+                "office": "781-000-201",
+                "mobile": "087-627-2122",
+                "sms": "617-002-2023",
+                "email": "chris@company.ie"
+            }
         }
     },
     {
-        "name": "Frank",
-        "info": "I'm James from Software Development",
-        "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+        "key": "t3",
+        "data":{
+            "name": "Frank",
+            "info": "Business Analyst",
+            "contact": {
+                "office": "781-000-021",
+                "mobile": "085-521-6122",
+                "sms": "617-001-272",
+                "email": "frank@company.ie"
+            }
         }
     },
     {
-        "name": "Paul",
-        "info": "I'm James from Software Development",
-        "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+        "key": "t4",
+        "data":{
+            "name": "Paul",
+            "info": "Software Development",
+            "contact": {
+                "office": "781-000-003",
+                "mobile": "084-671-4322",
+                "sms": "617-000-176",
+                "email": "paul@company.ie"
+            }
         }
     },
     {
-        "name": "Thomas",
-        "info": "I'm James from Software Development",
-        "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+        "key": "t5",
+        "data":{
+            "name": "Thomas",
+            "info": "Quality Assurance",
+            "contact": {
+                "office": "781-000-957",
+                "mobile": "087-871-0222",
+                "sms": "617-000-992",
+                "email": "thomas@company.ie"
+            }
         }
     },
     {
-        "name": "Unknown",
-        "info": "I'm James from Software Development",
-        "contact": {
-            "office": "781-000-002",
-            "mobile": "087-321-0292",
-            "sms": "617-000-002",
-            "email": "jtaylor@company.ie"
+        "key": "t6",
+        "data":{
+            "name": "Unknown",
+            "info": "???",
+            "contact": {
+                "office": "???",
+                "mobile": "???",
+                "sms": "???",
+                "email": "???"
+            }
         }
     },
-     {
-        "name": "Sarah",
-        "info": "I'm Sarah from UI/UX",
-        "contact": {
-            "office": "781-000-012",
-            "mobile": "086-321-1752",
-            "sms": "617-000-012",
-            "email": "swhite@company.ie"
+     {  
+        "key": "t7",
+        "data":{
+            "name": "Sarah",
+            "info": "UI/UX Designer",
+            "contact": {
+                "office": "781-000-012",
+                "mobile": "086-321-1752",
+                "sms": "617-000-012",
+                "email": "swhite@company.ie"
+            }
         }
     }
 ]
