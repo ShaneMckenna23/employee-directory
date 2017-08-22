@@ -14,7 +14,7 @@ const filterEmployee = (searchText, maxResults) => {
   }).slice(0, maxResults);
 }
 
-var maxResults = 5;
+var maxResults = 4;
 
 export default class App extends React.Component {
 
