@@ -7,10 +7,10 @@ To-Do
 ---
 
 - [x] Make demo gif.
-- [ ] Split classes from app.js into seperate files
+- [x] Split classes from app.js into seperate files
 - [ ] Add more styling to the app.
-- [ ] Edit json data.
-- [ ] Add Animations
+- [x] Edit json data.
+- [x] Add Animations
 
 
 Install
