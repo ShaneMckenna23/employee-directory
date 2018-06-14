@@ -1,8 +1,11 @@
 body {
-  margin: 0;
+  margin-top: 180px;
   padding: 0;
   margin-left: 0;
   font-family: sans-serif;
+  background-image: url('/book.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 
 .employee-item{
@@ -21,7 +24,6 @@ body {
 }
 
 .employee-card {
-  background-color: white;
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
   border-top-left-radius: 3px;
@@ -34,4 +36,8 @@ body {
   display: block;
   margin: auto;
   width: 50%;
+}
+
+.home-container {
+  margin-left: 100px;
 }

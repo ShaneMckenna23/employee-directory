@@ -7,7 +7,7 @@ class EmployeePage extends React.Component {
         let {selectedEmployee} = this.props
         return (
             <div className="employee-container">
-                <h1>Employee</h1>
+                <h1 style={{marginLeft: '20px'}}>Employee</h1>
                 <EmployeePanel employee={selectedEmployee}/>
             </div>
         );

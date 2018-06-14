@@ -10,7 +10,7 @@ class HomePage extends React.Component {
         return (
             <div className="home-container">
                 <h1>Employee Directory</h1>
-                <FormControl onChange={this.onChange} />
+                <FormControl  onChange={this.onChange} />
                 <EmployeeList employeeData={this.props.employeeData} onEmployeeClick={this.props.onEmployeeClick}/>
             </div>
         );

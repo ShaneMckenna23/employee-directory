@@ -6,7 +6,7 @@ import {ListGroup} from 'react-bootstrap'
 class EmployeeList extends React.Component {
 
     getDefaultStyles = () => {
-        let test =  this.props.employeeData.map(employee => ({...employee, style: {height: 0, opacity: 1}}));
+        return this.props.employeeData.map(employee => ({...employee, style: {height: 0, opacity: 1}}));
     };
 
     getStyles = () => {

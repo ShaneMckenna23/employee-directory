@@ -43,7 +43,7 @@ export default class App extends React.Component {
             <Col lg={8} md={7} sm={4} lgOffset={2}>
                 <Col lg={6}>
                     <HomePage onSearch={this.onSearch} employeeData={this.state.filteredEmployee} onEmployeeClick={this.onEmployeeClick}/>
-                </Col>
+                </Col>  
                 <Col lg={6}>
                     <EmployeePage selectedEmployee={this.state.selectedEmployee}/>
                 </Col>
