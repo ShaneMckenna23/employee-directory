@@ -9,7 +9,8 @@ body {
 }
 
 .employee-item{
- display: block
+ display: block;
+ cursor: pointer;
 }
 
 .employee-item-text{
